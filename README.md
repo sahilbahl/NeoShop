@@ -1,10 +1,10 @@
 # NeoShop
 
-A decentralised MarketPlace build on the NEO blockchain where people can buy and list items using Neo.
+A decentralised MarketPlace build on the NEO blockchain where people can buy and sell products using Neo.
 
 This decentralised marketplace POC currently supports the folowing features
-- List an Item
-- Buy an Item
+- Sell a product
+- Buy a product
 - View Current Unsold Listings
 - Edit Listings
 - Delete Listings
